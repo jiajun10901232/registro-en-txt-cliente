@@ -1,0 +1,7 @@
+1:PcCom Revolt 3060 Intel Core i7-12700H/32GB/500GB SSD/RTX 3060/15.6:1289.90
+2:Asus rog:1199.99
+3:Asus ROG Strix XG16AHPE Monitor Gaming Portátil 15.6" LED IPS FullHD 144Hz G-Sync:367.99
+4:Acer Nitro 5 AN515-45-R6CN AMD Ryzen 7 5800H/32GB/1TB SSD/RTX 3080/15.6:1799.00
+5:PC Racing Ordenador Gaming AMD Ryzen 3 3200G/16GB/480GB SSD + Windows 11 Home:449.9526:ipad:1300.06:ipad:1200.0
+6:ipad:120.0
+7:asus:500.99
